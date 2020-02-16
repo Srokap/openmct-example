@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Srokap/openmct-example#readme",
   "dependencies": {
-    "openmct": "nasa/openmct"
+    "openmct": "Srokap/openmct#css_build_fix"
   }
 }
